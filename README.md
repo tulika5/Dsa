@@ -1,5 +1,6 @@
 # Dsa
 Data structures and algorithms 
 * time space complexity
-* areay
-* 
+* array
+*automate boring stuff with python
+oreilly data science from scratch
